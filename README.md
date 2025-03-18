@@ -4,6 +4,7 @@
 Структура проекта
 css
 Копировать код
+
 HighlighterApp/
 ├─ .gradle/
 ├─ build/
@@ -19,6 +20,7 @@ HighlighterApp/
             ├─ MainFrame.java
             ├─ Morfologiya.java
             └─ ObrabotkaIzobrazheniya.java
+            
 •	DragDropPanel.java — панель с пунктирной рамкой для перетаскивания (Drag & Drop) файла.
 •	MainFrame.java — главное окно приложения, содержащие вкладки «До»/«После», кнопки, слайдеры, чекбокс для морфологии и логику сохранения.
 •	Morfologiya.java — класс с морфологическими операциями (расширение, удаление длинных линий).
