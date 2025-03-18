@@ -11,13 +11,13 @@ HighlighterApp/
 ├─ settings.gradle
 ├─ build.gradle
 └─ src/
-└─ main/
-└─ java/
-└─ org/example/
-├─ DragDropPanel.java
-├─ MainFrame.java
-├─ Morfologiya.java
-└─ ObrabotkaIzobrazheniya.java
+   └─ main/
+      └─ java/
+         └─ org/example/
+            ├─ DragDropPanel.java
+            ├─ MainFrame.java
+            ├─ Morfologiya.java
+            └─ ObrabotkaIzobrazheniya.java
 
 Copy
 
