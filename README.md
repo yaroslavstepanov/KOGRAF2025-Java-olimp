@@ -2,25 +2,6 @@
 
 Проект представляет собой приложение для обработки изображений с использованием пороговой бинаризации и морфологических операций.
 
-## Структура проекта
-HighlighterApp/
-├─ .gradle/
-├─ build/
-├─ gradlew
-├─ gradlew.bat
-├─ settings.gradle
-├─ build.gradle
-└─ src/
-   └─ main/
-      └─ java/
-         └─ org/example/
-            ├─ DragDropPanel.java
-            ├─ MainFrame.java
-            ├─ Morfologiya.java
-            └─ ObrabotkaIzobrazheniya.java
-
-Copy
-
 ### Описание классов
 
 - **DragDropPanel.java** — панель с пунктирной рамкой для перетаскивания (Drag & Drop) файла.
